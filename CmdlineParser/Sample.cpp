@@ -1,7 +1,6 @@
 int main(int argc, const char* argv[])
 {  
     int op1, op2;
-    bool v;
 
     CmdlineOpts opts = {
                      
